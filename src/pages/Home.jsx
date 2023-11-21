@@ -6,7 +6,7 @@ const Home = () => {
     <div className="flex items-center h-screen">
       <div className="container 2xl:w-[1140px] content-center ml-auto mr-auto items-center">
         <h1 className="font-[Poppins,sans-serif] text-5xl font-bold text-white">
-          Song JuanJuan
+          Jermaine Samala
         </h1>
         <h2 className="text-white/[.8] text-[24px] mt-[20px] font-[Raleway,sans-serif] mb-[35px]">
           I'm a senior{" "}
@@ -21,25 +21,13 @@ const Home = () => {
         {/* Picture Button */}
         <div className="mt-[40px] flex">
           <a
-            href="/"
+            href="https://www.linkedin.com/in/jermaine-samala-a02549269/"
             className="bg-white/[.1] rounded-full w-[40px] h-[40px] mr-[8px] text-[16px] flex justify-center items-center text-white hover:bg-[#18d26e] hover:transition hover:ease-in-out hover:delay-100"
           >
             <i className="icofont-linkedin"></i>
           </a>
           <a
-            href="/"
-            className="bg-white/[.1] rounded-full w-[40px] h-[40px] mr-[8px] text-[16px] flex justify-center items-center text-white hover:bg-[#18d26e] hover:transition hover:ease-in-out hover:delay-100"
-          >
-            <i className="icofont-twitter"></i>
-          </a>
-          <a
-            href="/"
-            className="bg-white/[.1] rounded-full w-[40px] h-[40px] mr-[8px] text-[16px] flex justify-center items-center text-white hover:bg-[#18d26e] hover:transition hover:ease-in-out hover:delay-100"
-          >
-            <i className="icofont-facebook"></i>
-          </a>
-          <a
-            href="/"
+            href="https://github.com/superdev214"
             className="bg-white/[.1] rounded-full w-[40px] h-[40px] mr-[8px] text-[16px] flex justify-center items-center text-white hover:bg-[#18d26e] hover:transition hover:ease-in-out hover:delay-100"
           >
             <i className="icofont-github"></i>
